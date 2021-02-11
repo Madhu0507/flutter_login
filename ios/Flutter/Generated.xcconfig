@@ -7,3 +7,5 @@ SYMROOT=${SOURCE_ROOT}/../build/ios
 FLUTTER_FRAMEWORK_DIR=/usr/local/Caskroom/flutter/1.2.1/flutter/bin/cache/artifacts/engine/ios
 FLUTTER_BUILD_NAME=1.0.0
 FLUTTER_BUILD_NUMBER=1
+
+hari krishna
